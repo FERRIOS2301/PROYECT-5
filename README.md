@@ -1,2 +1,3 @@
 # PROYECT-5
 CONECTANDO CON DOCUMENTOS GOOGLE
+[[MANUAL-REGISTRACION-ASISTENCIA-ANUAL](https://docs.google.com/document/d/1vTC_iE0i315Q579mn2wK7l-A-zZu3wR14igMIrrkmGY/edit?usp=sharing)]
